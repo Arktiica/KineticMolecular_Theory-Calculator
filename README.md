@@ -1,6 +1,6 @@
 # KineticMolecular_Theory-Calculator
 
-Calculation the root mean square speed (u_rms) and Average Kinetic Energy (KE_avg) based on the 2 user inputs. **There are no checks for input errors**:
+Calculates the root mean square speed (u_rms) and Average Kinetic Energy (KE_avg) based on the 2 user inputs. **There are no checks for input errors**:
 - Inputting temperature as celsius will give you an incorrect calcuation.
 - Inputting anything more than numbers will return a value error.
 
