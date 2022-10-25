@@ -18,3 +18,6 @@ How To Use:
 2. Input values without units.
 3. Returns the calculation results. And asks if you want to stop calculating.
 4. Enter `y` to quit or enter `n` to calculate again.
+
+
+Wanted to make my life easier, and also re-learn a lanuage I've not touched in awhile. Simple yet effective.
