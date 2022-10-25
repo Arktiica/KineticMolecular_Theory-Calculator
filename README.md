@@ -4,20 +4,10 @@ Calculates the root mean square speed (u_rms) and Average Kinetic Energy (KE_avg
 - Inputting temperature as celsius will give you an incorrect calcuation.
 - Inputting anything more than numbers will return a value error.
 
-> Gas Constant being used: 8.314 J/K-mol
->
-> Temperature must need to be inputted in Kelvin.
->
-> Molar mass must need to be inputted in grams per mole.
-
+Gas Constant being used: 8.314 J/K-mol<br>
+Temperature must need to be inputted in Kelvin. (℃ + 273.15 = K)<br>
+Molar mass must need to be inputted in grams per mole. <br>
 Celsius -> Kelvin
-℃ + 273.15 = K
-
-How To Use:
-1. Download the `.py` file and run it.
-2. Input values without units.
-3. Returns the calculation results. And asks if you want to stop calculating.
-4. Enter `y` to quit or enter `n` to calculate again.
 
 
 Wanted to make my life easier, and also re-learn a lanuage I've not touched in awhile. Simple yet effective.
